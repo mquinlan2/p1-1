@@ -27,7 +27,7 @@ public class ScoreList implements ScoreListADT {
 	
 	
 	/** 
-	 * Adds the score to the end of this list..
+	 * Adds the score to the end of this list.
 	 * 
 	 * @param score a non-null Score to place as the last item in the list.
 	 * @throws IllegalArgumentException
